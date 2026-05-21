@@ -59,7 +59,7 @@ The exhibition showcased outstanding student projects and innovative technical i
 ### Home Page
 ![Home Page](screenshots/homepage.png)
 
-### Mnue Page
+### Menu Page
 ![Menu](screenshots/menu.png)
 
 ### Order Confirmation
