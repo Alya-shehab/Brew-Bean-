@@ -53,11 +53,20 @@ The exhibition showcased outstanding student projects and innovative technical i
 
 ## Project Screenshots
 
+### Login System
+![Login](screenshots/login.png)
+
+### Home Page
 ![Home Page](screenshots/homepage.png)
 
-![Menu Page](screenshots/menu.png)
+### Products Page
+![Products](screenshots/products.png)
 
-![Order Page](screenshots/order.png)
+### Order Confirmation
+![Order Confirmation](screenshots/confirmation.png)
+
+### Orders Tracking
+![Orders](screenshots/orders.png)
 
 ---
 
