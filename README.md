@@ -2,6 +2,8 @@
 
 > Selected for the "Future Innovations" Computer Science Exhibition.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brown?style=for-the-badge)](https://brew-bean.infinityfree.me/index.php)
+
 A web-based coffee shop management system developed as a university project.
 
 ---
